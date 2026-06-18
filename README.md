@@ -47,8 +47,8 @@ Mỗi học viên có 1 kho công khai riêng.
 
 ## Thông tin học viên
 
-- Mã học viên: A20-XXXXX
-- Họ tên: Nguyễn Văn A
+- Mã học viên: 2A202600620
+- Họ tên: Trần Quang Thanh
 - Track: AI Product Strategy
 
 ## File nộp
